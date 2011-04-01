@@ -1,9 +1,7 @@
 #summary Hardware description of SixthSense.
 
-= Create your own Sixth Sense Device =
+== Create your own Sixth Sense Device ==
 
-
-= Details =
 So you want to make your own SixthSense Device. Now what?
 
 
