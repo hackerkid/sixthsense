@@ -28,6 +28,7 @@ These are the basic pieces that should buy:
 
  *	*Laptop Computer*: Sony Viao Z Series (the mobile computing device)
 
+http://www.pranavmistry.com/projects/sixthsense/images/full/sixthsense04.jpg
 
 Now that you have all these pieces, you need a way to combine them. We recommend using Lego strips to form the base. The projector, camera, and mirror assembly can be directly put onto this base. You can also use Velcro to combine the products.
 
@@ -55,7 +56,7 @@ The major functions of the projector can be listed as:
 The mirror reflects the projection coming out from the projector and thus helps in projecting onto the desired locations on walls or surfaces. The user manually can change the tilt of the mirror to change the location of the projection. For example in application where the user wants the projection to go on the ground instead of the surface in front, he can change the tilt of the mirror to change the projection. Thus, the mirror in the SixthSense helps in overcoming the limitation of the limited projection space of the projector. 
   
 ===Microphone===
-The microphone is an optional component of the SixthSense. It is required in the feature of using a paper as a computing interface. When the user wants to use a sheet of paper as an interactive surface, he clips the microphone to the paper. The microphone attached this way captures the sound signals of user’s touching the paper. This data is passed to computing device for processing. Later, combined with the tracking information about user’s finger, the system is able to identify precise touch events on the paper. Here, the sound signal captured by the microphone provides time information whereas the camera performs tracking. The applications enabled by this technique are explained earlier.   
+The microphone is an optional component of the SixthSense. It is required when using a paper as a computing interface. When the user wants to use a sheet of paper as an interactive surface, he or she clips the microphone to the paper. The microphone attached this way captures the sound signals of user’s touching the paper. This data is passed to computing device for processing. Later, combined with the tracking information about user’s finger, the system is able to identify precise touch events on the paper. Here, the sound signal captured by the microphone provides time information whereas the camera performs tracking. The applications enabled by this technique are explained earlier.   
 
 
 ===Mobile computing device===
@@ -63,7 +64,5 @@ The SixthSense system uses a mobile computing device in user’s pocket as the p
 
 
  
-
-
 
 
