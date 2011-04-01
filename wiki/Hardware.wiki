@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Hardware description of SixthSense.
 
 = Create your own Sixth Sense Device =
 
