@@ -27,6 +27,8 @@ The mirror reflects the projection coming out from the projector and thus helps 
 ===Microphone===
 The microphone is an optional component of the SixthSense. It is required when using a paper as a computing interface. When the user wants to use a sheet of paper as an interactive surface, he or she clips the microphone to the paper. The microphone attached this way captures the sound signals of user’s touching the paper. This data is passed to computing device for processing. Later, combined with the tracking information about user’s finger, the system is able to identify precise touch events on the paper. Here, the sound signal captured by the microphone provides time information whereas the camera performs tracking. The applications enabled by this technique are explained earlier.   
 
+===Mobile computing device===
+The SixthSense system uses a mobile computing device in user’s pocket as the processing device. The software program enabling all the features of the system runs on this computing device. This device can be a mobile phone or a small laptop computer. The camera, the projector and the microphone are connected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection. 
 
 
 ==Suggested Materials==
@@ -55,11 +57,6 @@ These are the basic pieces that should buy:
 Now that you have all these pieces, you need a way to combine them. We recommend using Lego strips to form the base. The projector, camera, and mirror assembly can be directly put onto this base. You can also use Velcro to combine the products.
 
 
-
-
-
-===Mobile computing device===
-The SixthSense system uses a mobile computing device in user’s pocket as the processing device. The software program enabling all the features of the system runs on this computing device. This device can be a mobile phone or a small laptop computer. The camera, the projector and the microphone are connected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection. 
 
 
  
