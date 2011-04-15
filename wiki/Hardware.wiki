@@ -28,6 +28,7 @@ Suggested Products: You can buy either *laser* ([http://www.amazon.com/AAXA-Tech
 ===Mirror===
 The mirror reflects the projection coming out from the projector and thus helps in projecting onto the desired locations on walls or surfaces. The user manually can change the tilt of the mirror to change the location of the projection. For example in application where the user wants the projection to go on the ground instead of the surface in front, he can change the tilt of the mirror to change the projection. Thus, the mirror in the SixthSense helps in overcoming the limitation of the limited projection space of the projector. 
 
+Suggested Products: Any 1”X1” first surface mirror
 
 ===Microphone===
 The microphone is an optional component of the SixthSense. It is required when using a paper as a computing interface. When the user wants to use a sheet of paper as an interactive surface, he or she clips the microphone to the paper. The microphone attached this way captures the sound signals of user’s touching the paper. This data is passed to computing device for processing. Later, combined with the tracking information about user’s finger, the system is able to identify precise touch events on the paper. Here, the sound signal captured by the microphone provides time information whereas the camera performs tracking. The applications enabled by this technique are explained earlier.   
@@ -36,6 +37,8 @@ Suggested Products: [http://www.amazon.com/Logitech-Quickcam-for-Notebooks-Pro/d
 
 ===Mobile computing device===
 The SixthSense system uses a mobile computing device in user’s pocket as the processing device. The software program enabling all the features of the system runs on this computing device. This device can be a mobile phone or a small laptop computer. The camera, the projector and the microphone are connected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection. 
+
+Suggested Products: Any Windows computer
 
 http://www.hotelemarketer.com/wp-content/uploads/2009/03/sixth-sense-wuw300px01.jpg
 
