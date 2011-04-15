@@ -1,4 +1,4 @@
-#Places to buy the SixthSense components.
+#summary Places to buy the SixthSense components.
 
 ==Suggested Hardware Materials==
 These are the basic pieces that you should buy. You can choose any brand, and the following list are those items that worked well for us: 
