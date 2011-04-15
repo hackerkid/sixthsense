@@ -32,7 +32,7 @@ The SixthSense system uses a mobile computing device in user’s pocket as the p
 
 
 ==Suggested Materials==
-These are the basic pieces that should buy: 
+These are the basic pieces that you should buy. You can choose any brand, and the following list are those items that worked well for us: 
  *	*Pico-Projector* – the pico projector will allow you to interface with your actual environment as live 
   *	*Laser*
     #	[http://www.amazon.com/AAXA-Technologies-P1Jr-Hand-held-Projector/dp/B0042TUOTC/ref=sr_1_5?ie=UTF8&s=electronics&qid=1299270933&sr=8-5 AAXA] ~$110 
