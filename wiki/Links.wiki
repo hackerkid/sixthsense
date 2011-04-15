@@ -2,7 +2,7 @@
 
 ==Suggested Hardware Components==
 These are the basic pieces that you should buy. You can choose any brand, and the following list are those items that worked well for us: 
- *	*Pico-Projector* – the pico projector will allow you to interface with your actual environment as live 
+ *	*Pico-Projector*
   *	*Laser*
     *	[http://www.amazon.com/AAXA-Technologies-P1Jr-Hand-held-Projector/dp/B0042TUOTC/ref=sr_1_5?ie=UTF8&s=electronics&qid=1299270933&sr=8-5 AAXA] ~$110 
     *	[http://www.amazon.com/MicroVision-SHOWWX-Classic-Laser-Projector/dp/B003G5ML9Y/ref=sr_1_2?ie=UTF8&s=electronics&qid=1299271049&sr=8-2 Microvision] ~$200
