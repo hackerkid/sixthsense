@@ -30,6 +30,7 @@ The microphone is an optional component of the SixthSense. It is required when u
 ===Mobile computing device===
 The SixthSense system uses a mobile computing device in user’s pocket as the processing device. The software program enabling all the features of the system runs on this computing device. This device can be a mobile phone or a small laptop computer. The camera, the projector and the microphone are connected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection. 
 
+http://www.hotelemarketer.com/wp-content/uploads/2009/03/sixth-sense-wuw300px01.jpg
 
 ==Suggested Materials==
 These are the basic pieces that you should buy. You can choose any brand, and the following list are those items that worked well for us: 
