@@ -1,0 +1,5 @@
+#summary Information on setting up the software for SixthSense.
+
+=How to run the Software Component of SixthSense=
+
+Add your content here.
