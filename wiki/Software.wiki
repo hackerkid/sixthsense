@@ -2,4 +2,4 @@
 
 =How to run the Software Component of SixthSense=
 
-Software components will be uploaded in the source soon.
+We are working on to make the current software uploaded here soon. The prototype system runs on windows platform and major of the code is written in C++ and C#.
