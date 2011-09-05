@@ -2,4 +2,4 @@
 
 =How to run the Software Component of SixthSense=
 
-Add your content here.
+Software components will be uploaded in the source soon.
