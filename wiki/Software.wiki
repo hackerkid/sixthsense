@@ -3,3 +3,14 @@
 =How to run the Software Component of SixthSense=
 
 We are working on to make the current software uploaded here soon. The prototype system runs on windows platform and major of the code is written in C++ and C#.
+
+==Beta Code v0.1==
+Download at: 
+[http://code.google.com/p/sixthsense/downloads/detail?name=wuw_v0.1.zip&can=2&q= v0.1] 
+
+This is the first beta release of the code. Note that certain dll's (i.e. Microsoft DirectX) need to be installed in order to run the C# code. We uses Microsoft Visual Studio to develop the project and the solution files are included. 
+
+
+
+==Contribute==
+We want you to help us make the software even better. We are releasing the code under an GPL
