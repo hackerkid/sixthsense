@@ -8,7 +8,7 @@ The prototype system runs on windows platform and majority of the code is writte
 Download at: 
 [http://code.google.com/p/sixthsense/downloads/detail?name=wuw_v0.1.zip&can=2&q= v0.1] 
 
-This is the first beta release of the code. Note that certain dll's (i.e. Microsoft DirectX) need to be installed in order to run the C# code. We uses Microsoft Visual Studio to develop the project and the solution files are included. 
+This is the first beta release of the code. Note that certain dll's (i.e. Microsoft DirectX) need to be installed in order to run the C# code. We use Microsoft Visual Studio to develop the project and the solution files are included. 
 
 ==Contribute==
-We want you to help us make the software even better. If you want to be added as a member of the project, email us with the changes you intend to make and your experience so we can contact you. 
+We want you to help us make the software even better! You are encouraged to add more features to the library and share your contributions with everyone. If you want to be added as a member of the project, email us with the changes you intend to make and your experience so we can contact you. 
