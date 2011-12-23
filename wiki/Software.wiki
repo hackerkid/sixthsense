@@ -10,7 +10,5 @@ Download at:
 
 This is the first beta release of the code. Note that certain dll's (i.e. Microsoft DirectX) need to be installed in order to run the C# code. We uses Microsoft Visual Studio to develop the project and the solution files are included. 
 
-
-
 ==Contribute==
-We want you to help us make the software even better. We are releasing the code under an GPL
+We want you to help us make the software even better. If you want to be added as a member of the project, email us with the changes you intend to make and your experience so we can contact you. 
