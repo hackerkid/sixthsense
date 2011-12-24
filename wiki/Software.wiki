@@ -10,6 +10,4 @@ Download at:
 
 This is the first beta release of the code. Note that certain dll's (i.e. Microsoft DirectX) need to be installed in order to run the C# code. We use Microsoft Visual Studio to develop the project and the solution files are included. 
 
-==Contribute==
-
-See [http://code.google.com/p/sixthsense/wiki/Contribute Contribute]
+==[http://code.google.com/p/sixthsense/wiki/Contribute Contribute]==
