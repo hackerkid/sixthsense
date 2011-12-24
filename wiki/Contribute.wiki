@@ -1,0 +1,5 @@
+#summary Information on how to contribute to the SixthSense project
+
+= Contribute =
+
+We want you to help us make the software even better! You are encouraged to add more features to the library and share your contributions with everyone. If you want to be added as a member of the project, email us at prabhavjain@gmail.com with the changes you intend to make and your experience so we can contact you. 
