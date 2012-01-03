@@ -18,6 +18,6 @@ WUW_v0.1 is the beta version of SixthSense code (WUW stands for Wear Ur World, a
 
 *Apps*: there are three ways to launch any application. Apps tab can let you choose the apps you want to load and run. One can also load apps from ‘Menu’. ‘Menu’ is triggered using Namaste gesture. Once on Menu screen you can choose the App by hand-click (Hand Click gesture works by moving the O marker and hiding P marker.  
 
-[Some of the Apps require some particular settings. There are also several types of gestures that are supported as of now. Details on Applications and Gestures will be added soon here.]
+(Some of the Apps require some particular settings. There are also several types of gestures that are supported as of now. Details on Applications and Gestures will be added soon here.)
 
 ==[http://code.google.com/p/sixthsense/wiki/Contribute Contribute]==
