@@ -4,6 +4,8 @@
 
 The prototype system runs on windows platform and majority of the code is written in C++ and C#. We will be uploading newer versions as it is being developed; this will also include a mobile version. 
 
+NOTE: We are moving the new code to Git this week. Meanwhile you can download it at the link below.
+
 ==WUW v0.1 beta==
 ===Download=== 
 [http://code.google.com/p/sixthsense/downloads/detail?name=wuw_v0.1.zip&can=2&q= v0.1] 
