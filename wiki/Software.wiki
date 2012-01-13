@@ -8,7 +8,9 @@ NOTE: We are moving the new code to Git this week. Meanwhile you can download it
 
 ==WUW v0.1 beta==
 ===Download=== 
-[http://code.google.com/p/sixthsense/downloads/detail?name=wuw_v0.1.zip&can=2&q= v0.1] 
+[http://code.google.com/p/sixthsense/downloads/detail?name=wuw_v0.1.zip&can=2&q= v0.1]
+
+or you can download latest release tag from: [https://github.com/sixthsense/sixthsense/tarball/0.1beta github]
 
 ===Instructions for running WUW_v0.1===
 
