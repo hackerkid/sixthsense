@@ -2,28 +2,30 @@
 
 = Introduction =
 
-_This page will contain community built tutorials for project. If you want commit access to wiki, just send an email to ss_dev mailing-list or kartik dot mistry @ gmail dot come, asking for wiki edit permissions and your Google Code email ID._
+This page will contain community built tutorials for project. If you want commit access to wiki, just send an email to ss_dev mailing-list or kartik dot mistry @ gmail dot come, asking for wiki edit permissions and your Google Code email ID.
 
 = Getting Started =
 Please download the code at [https://github.com/sixthsense/sixthsense Github]. Feel free to fork, propose patches and this will help to update the code regularly.
 ==Requirements==
 ===Hardware===
- # A windows computer/Laptop
- # A camera
- # Projector (You can also use your Monitor for interaction)
- # Colour markers (Like: Red,Yellow,Blue & Green)
+ * A windows computer/Laptop
+ * A camera
+ * Projector (You can also use your Monitor for interaction)
+ * Colour markers (Like: Red,Yellow,Blue & Green)
 ===Software===
- # Direct X
- # Visual studios
- # Adobe Flash player (active x) 
- # MS Outlook
+ * Direct X
+ * Visual studios
+ * Adobe Flash player (active x) 
+ * MS Outlook
 
-*Lets get started*
- # After downloading the code from Github, uncompressed the zip file to any location in your computer (Ex: F:\sixthsense-sixthsense-4e155fc)
- # Now open MS Outlook for running the Mail app( without outlook you may get errors )
- # Now click on WUW01. [http://2.bp.blogspot.com/-Bt1IJl2Fi4U/T2LG8GSU6II/AAAAAAAAAHo/19Z2jn_RYaQ/s1600/1.JPG Fig.1]
- # A Window appears  [http://1.bp.blogspot.com/-7jWoGkixEnQ/T2ScyrmdW9I/AAAAAAAAAIQ/2BvdL_eN6lk/s1600/2..JPG Fig.2]. Now click F5 to debug it.(Make sure you're connected to the internet)
- # A Black window appears as in [http://4.bp.blogspot.com/-Uvznf36K5KQ/T2LPeVuvzbI/AAAAAAAAAH4/4l-G1sj6phA/s320/4.JPG Fig.3]. There are certain options like camera,Tokens and apps
+ * *Internet connection is also required*
+
+===Lets get started===
+ * After downloading the code from Github, uncompressed the zip file to any location in your computer (Ex: F:\sixthsense-sixthsense-4e155fc)
+ * Now open MS Outlook for running the Mail app( without outlook you may get errors )
+ * Now click on WUW01. [http://2.bp.blogspot.com/-Bt1IJl2Fi4U/T2LG8GSU6II/AAAAAAAAAHo/19Z2jn_RYaQ/s1600/1.JPG Fig.1]
+ * A Window appears  [http://1.bp.blogspot.com/-7jWoGkixEnQ/T2ScyrmdW9I/AAAAAAAAAIQ/2BvdL_eN6lk/s1600/2..JPG Fig.2]. Now click F5 to debug it.(Make sure you're connected to the internet)
+ * A Black window appears as in [http://4.bp.blogspot.com/-Uvznf36K5KQ/T2LPeVuvzbI/AAAAAAAAAH4/4l-G1sj6phA/s320/4.JPG Fig.3]. There are certain options like camera,Tokens and apps
 
 ===Camera:===
 
@@ -54,6 +56,6 @@ Please download the code at [https://github.com/sixthsense/sixthsense Github]. F
  * Top fingers : Yellow with blue
  * Bottom fingers : green with red
 
-*Note*: Click on the Figs. to get the pictures.
+(*Note*: Click on the Figs. to get the pictures.)
 
 <g:plusone size="medium"></g:plusone>
