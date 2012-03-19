@@ -6,13 +6,13 @@ This page will contain community built tutorials for project. If you want commit
 
 = Getting Started =
 Please download the code at [https://github.com/sixthsense/sixthsense Github]. Feel free to fork, propose patches and this will help to update the code regularly.
-==Requirements==
-===Hardware===
+==Requirements:==
+===Hardware:===
  * A windows computer/Laptop
  * A camera
  * Projector (You can also use your Monitor for interaction)
  * Colour markers (Like: Red,Yellow,Blue & Green)
-===Software===
+===Software:===
  * Direct X
  * Visual studios
  * Adobe Flash player (active x) 
@@ -20,7 +20,7 @@ Please download the code at [https://github.com/sixthsense/sixthsense Github]. F
 
  * *Internet connection is also required*
 
-===Lets get started===
+====Lets get started====
  * After downloading the code from Github, uncompressed the zip file to any location in your computer (Ex: F:\sixthsense-sixthsense-4e155fc)
  * Now open MS Outlook for running the Mail app( without outlook you may get errors )
  * Now click on WUW01. [http://2.bp.blogspot.com/-Bt1IJl2Fi4U/T2LG8GSU6II/AAAAAAAAAHo/19Z2jn_RYaQ/s1600/1.JPG Fig.1]
