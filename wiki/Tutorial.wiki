@@ -12,7 +12,7 @@ Please download the code at [https://github.com/sixthsense/sixthsense Github]. F
  # A camera
  # Projector (You can also use your Monitor for interaction)
  # Colour markers (Like: Red,Yellow,Blue & Green)
-===software===
+===Software===
  # Direct X
  # Visual studios
  # Adobe Flash player (active x) 
@@ -54,6 +54,6 @@ Please download the code at [https://github.com/sixthsense/sixthsense Github]. F
  * Top fingers : Yellow with blue
  * Bottom fingers : green with red
 
-*Note*:Click on the Figs to get the pictures.
+*Note*: Click on the Figs. to get the pictures.
 
 <g:plusone size="medium"></g:plusone>
