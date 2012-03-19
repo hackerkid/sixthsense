@@ -2,4 +2,58 @@
 
 = Introduction =
 
-This page will contain community built tutorials for project. If you want commit access to wiki, just send an email to ss_dev mailing-list or kartik dot mistry @ gmail dot come, asking for wiki edit permissions and your Google Code email ID.
+_This page will contain community built tutorials for project. If you want commit access to wiki, just send an email to ss_dev mailing-list or kartik dot mistry @ gmail dot come, asking for wiki edit permissions and your Google Code email ID._
+
+= Getting Started =
+Please download the code at [https://github.com/sixthsense/sixthsense Github]. Feel free to fork, propose patches and this will help to update the code.
+==Requirements==
+===Hardware===
+ # A windows computer/Laptop
+ # A camera
+ # Projector (You can also use your Monitor for interaction)
+ # Colour markers (Like: Red,Yellow,Blue & Green)
+===software===
+ # Direct X
+ # Visual studios
+ # Adobe Flash player (active x) 
+ # MS Outlook
+
+*Lets get started*
+ # After downloading the code from Github, uncompressed the zip file to any location in your computer (Ex: F:\sixthsense-sixthsense-4e155fc)
+ # Now open MS Outlook for running the Mail app( without outlook you may get errors )
+ # Now click on WUW01. [http://2.bp.blogspot.com/-Bt1IJl2Fi4U/T2LG8GSU6II/AAAAAAAAAHo/19Z2jn_RYaQ/s1600/1.JPG Fig.1]
+ # A Window appears  [http://1.bp.blogspot.com/-7jWoGkixEnQ/T2ScyrmdW9I/AAAAAAAAAIQ/2BvdL_eN6lk/s1600/2..JPG Fig.2]. Now click F5 to debug it.(Make sure you're connected to the internet)
+ # A Black window appears as in [http://4.bp.blogspot.com/-Uvznf36K5KQ/T2LPeVuvzbI/AAAAAAAAAH4/4l-G1sj6phA/s320/4.JPG Fig.3]. There are certain options like camera,Tokens and apps
+
+===Camera:===
+
+  * Here you can select the camera you want to use from the *drop down options*.
+  * If you are having multiple cameras you can select from those option or if you have single camera it will automatically start capturing.
+  * You can also adjust your camera settings (Brightness,contrast,..etc) by clicking on *"Adjust Camera Properties"*.
+
+===Tokens:===
+
+  * Click the *"New Marker"* button, you will see the camera flickering 3 times, during this period you will have to position you fingers (with the markers) in front of the camera and on the 3rd flicker you will have a still image.
+
+  * Now simply drag the mouse over the markers with small circles that should only cover the part of the marker,repeat this process four times for the four markers *(M,N,O & P)*
+  * Add the colour markers in the order : *Red ,Yellow ,Blue & Green* [http://3.bp.blogspot.com/-qpK3k9RJYEM/T2MjDPVuGjI/AAAAAAAAAII/cc1bUWvi4LE/s1600/markers.JPG Fig.4]
+                              
+  * *You can also check this video for adding colour markers* :
+     <wiki:video url="http://www.youtube.com/watch?v=5JNSILC6ie0"/>
+
+===APPS:===
+====Test====
+ * You can see whether the four markers are being tracked and moving while you are moving those particular markers that is on the fingers.
+
+====Draw====
+ * The red marker (M) draws when the yellow marker (N) is hidden.When both the markers are visible you can move the mouse pointer to select different colours or eraser,etc 
+
+====Photo====
+ * Make a square frame with your fingers and when the countdown starts remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs )
+
+ * Top fingers : Yellow with blue
+ * Bottom fingers : green with red
+
+*Note*:Click on the Figs to get the pictures.
+
+<g:plusone size="medium"></g:plusone>
