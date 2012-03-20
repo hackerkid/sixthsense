@@ -51,11 +51,12 @@ Please download the code at [https://github.com/sixthsense/sixthsense Github]. F
  * The red marker (M) draws when the yellow marker (N) is hidden.When both the markers are visible you can move the mouse pointer to select different colours or eraser,etc 
 
 ====Photo====
- * Make a square frame with your fingers and when the countdown starts remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs )
+ * Make a rectangle with your pointer fingers and thumbs and when the gesture is recognized,the countdown starts 
+ * Remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs )
 
- * Top fingers : Yellow with blue
- * Bottom fingers : green with red
+ 
 
 (*Note*: Click on the Figs. to get the pictures.)
+
 
 <g:plusone size="medium"></g:plusone>
