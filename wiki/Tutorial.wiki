@@ -8,13 +8,13 @@ This page will contain community built tutorials for project. If you want commit
 Please download the code at [https://github.com/sixthsense/sixthsense/downloads Github]. Feel free to fork, propose patches and this will help to update the code regularly.
 ==Requirements:==
 ===Hardware:===
- * A windows computer/Laptop
+ * Any windows computer/Laptop
  * A camera
  * Projector (You can also use your Monitor for interaction)
  * Colour markers (Like: Red,Yellow,Blue & Green)
 ===Software:===
- * Direct X
- * Visual studios
+ * [http://www.microsoft.com/download/en/details.aspx?id=10084&hash=IYXPCllHASPeSu7Cq6oC0AIsuXpRXBWfM1v%2fX3Wf0Jkiv1VUmgCNNbhsjCrRHuUWxBi4E4GeO5OEqIa2T%2fQ8HA%3d%3d Direct X]
+ * [http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express Visual studios]
  * Adobe Flash player (active x) 
  * MS Outlook
 
