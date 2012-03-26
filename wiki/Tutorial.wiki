@@ -56,6 +56,36 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
  * Make a rectangle with your pointer fingers and thumbs and when the gesture is recognized,the countdown starts 
  * Remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs )
 
+====Gallery:====
+ * Information to be added HERE
+
+====Mail:====
+ * Displays a list of email from outlook (required that MS Outlook be running for this to work)
+
+====Weather:====
+ * Displays a weather app that can be localised to your area.
+
+====Stock:====
+ * Displays 16 stocks values real time, use the slider at the bottom of the projected display to set the time scale.
+
+
+(*Note*: Click on the Figs. to get the pictures.)
+
+====Effects:====
+ * Information to be added HERE 
+
+====NewsPaper:====
+ * Information to be added HERE 
+
+====Book:====
+ * Information to be added HERE 
+
+====Clock:====
+ * An Analog clock will be projected 
+
+====Menu:====
+ * Information to be added HERE 
+
  
 
 (*Note*: Click on the Figs. to get the pictures.)
