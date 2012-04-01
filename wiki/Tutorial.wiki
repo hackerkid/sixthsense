@@ -42,7 +42,7 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
   * Add the colour markers in the order : *Red ,Yellow ,Blue & Green* [http://3.bp.blogspot.com/-qpK3k9RJYEM/T2MjDPVuGjI/AAAAAAAAAII/cc1bUWvi4LE/s1600/markers.JPG Fig.4]
                               
   * *You can also check this video for adding colour markers* :
-     <wiki:video url="http://www.youtube.com/watch?v=5JNSILC6ie0"/>
+     <wiki:video url="http://www.youtube.com/watch?v=fufvs4JgI_I"/>
 
 ===APPS:===
 *Some apps are listed below*:
