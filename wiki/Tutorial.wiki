@@ -54,7 +54,7 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 
 ====Photo:====
  * Make a rectangle with your pointer fingers and thumbs and when the gesture is recognized,the countdown starts 
- * Remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs )[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726676008950293778 Fig.7]
+ * Remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs) [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726676008950293778 Fig.7]
 
 ====Gallery:====
  * Displays the photos that you have taken [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726476771570069042 Fig.8]
@@ -81,9 +81,7 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
  * An Analog clock will be projected by doing a circle gesture. [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726470935266601666 Fig.13]
 
 ====Menu:====
- * Displays different menu icons.
-[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726475924496517394 Fig.14]
-
+ * Displays different menu icons.[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726475924496517394 Fig.14]
 
 
 (*Note*: Click on the Figs. to get the pictures.)
