@@ -86,4 +86,4 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 
 (*Note*: Click on the Figs. to get the pictures.)
 
-<g:plusone size="medim"></g:plusone>
+ <g:plusone size="medim"></g:plusone>
