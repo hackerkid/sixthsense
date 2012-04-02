@@ -81,7 +81,7 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
  * An Analog clock will be projected by doing a circle gesture. [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726470935266601666 Fig.13]
 
 ====Menu:====
- *Displays different icons to select apps.
+ * Displays different menu icons.
 [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726475924496517394 Fig.14]
 
 
