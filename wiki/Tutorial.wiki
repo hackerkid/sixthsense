@@ -47,48 +47,45 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 ===APPS:===
 *Some apps are listed below*:
 ====Test:====
- * You can see whether the four markers are being tracked and moving while you are moving those particular markers that is on the fingers.
+ * You can see whether the four markers are being tracked and moving while you are moving those particular markers that is on the fingers. [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726672772394890722 Fig.5]
 
 ====Draw:====
- * The red marker (M) draws when the yellow marker (N) is hidden.When both the markers are visible you can move the mouse pointer to select different colours or eraser,etc 
+ * The red marker (M) draws when the yellow marker (N) is hidden.When both the markers are visible you can move the mouse pointer to select different colours or eraser,etc [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726672772394890722 Fig.6]
 
 ====Photo:====
  * Make a rectangle with your pointer fingers and thumbs and when the gesture is recognized,the countdown starts 
- * Remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs )
+ * Remove you hands from the camera frame to capture the desired photo. (The countdown lasts for 3 secs )[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726676008950293778 Fig.7]
 
 ====Gallery:====
- * Information to be added HERE
+ * Displays the photos that you have taken [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726476771570069042 Fig.8]
 
 ====Mail:====
  * Displays a list of email from outlook (required that MS Outlook be running for this to work)
 
 ====Weather:====
- * Displays a weather app that can be localised to your area.
+ * Displays a weather app that can be localised to your area.[https://picasaweb.google.com/107469250566140829278/WUWErrors?authkey=Gv1sRgCKnAmuzTzMqrpQE#5721147957373781090 Fig.9]
 
 ====Stock:====
  * Displays 16 stocks values real time, use the slider at the bottom of the projected display to set the time scale.
 
-
-(*Note*: Click on the Figs. to get the pictures.)
-
 ====Effects:====
- * Information to be added HERE 
+ * Play with beautiful wavy lines and explore your imagination.[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726681748266713746 Fig.10]
 
-====NewsPaper:====
- * Information to be added HERE 
+====Newspaper:====
+ * It projects newspaper stories and related videos from Youtube or other web sites,directly onto the surface of the paper.[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726471022905541186 Fig.11]
 
 ====Book:====
- * Information to be added HERE 
+ * For book-recognition,the program gets activated with a gesture, and the system snaps a photo of the book, compares it with book-cover images it finds online, computes a match, and retrieves and projects the ratings.[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726471358268809378 Fig.12]
 
 ====Clock:====
- * An Analog clock will be projected 
+ * An Analog clock will be projected by doing a circle gesture. [https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726470935266601666 Fig.13]
 
 ====Menu:====
- * Information to be added HERE 
+ *Displays different icons to select apps.
+[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726475924496517394 Fig.14]
 
- 
+
 
 (*Note*: Click on the Figs. to get the pictures.)
 
-
-<g:plusone size="medium"></g:plusone>
+<g:plusone size="medim"></g:plusone>
