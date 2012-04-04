@@ -4,7 +4,10 @@
 
 This page will contain community built tutorials for project. If you want commit access to wiki, just send an email to ss_dev mailing-list or kartik dot mistry @ gmail dot come, asking for wiki edit permissions and your Google Code email ID.
 
-= Getting Started =
+<g:plusone size="medium"></g:plusone>
+
+= Getting Started = 
+
 Please download the code at [https://github.com/sixthsense/sixthsense/downloads Github]. Feel free to fork, propose patches and this will help to update the code regularly.
 ==Requirements:==
 ===Hardware:===
@@ -85,5 +88,3 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 
 
 (*Note*: Click on the Figs. to get the pictures.)
-
- <g:plusone size="medim"></g:plusone>
