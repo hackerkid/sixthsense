@@ -4,7 +4,6 @@
 
 This page will contain community built tutorials for project. If you want commit access to wiki, just send an email to ss_dev mailing-list or kartik dot mistry @ gmail dot come, asking for wiki edit permissions and your Google Code email ID.
 
-<g:plusone size="medium"></g:plusone>
 
 = Getting Started = 
 
@@ -86,5 +85,38 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 ====Menu:====
  * Displays different menu icons.[https://picasaweb.google.com/107469250566140829278/SixthsenseWuw#5726475924496517394 Fig.14]
 
-
 (*Note*: Click on the Figs. to get the pictures.)
+
+
+= Configuring the code at Google (wuw_v0.1): =
+
+===  Same Requirements as written above.===
+
+ * Download the code from [http://code.google.com/p/sixthsense/downloads/list wuw_v0.1] & follow the steps as written above.
+
+=== How to add colour markers ===
+
+
+ * You can also follow the steps above to add the markers or check this video :
+ 
+
+     <wiki:video url="http://www.youtube.com/watch?v=5JNSILC6ie0"/>
+
+
+
+= How to remove the Black box =
+
+
+ * To remove the [https://picasaweb.google.com/107469250566140829278/WUWErrors?authkey=Gv1sRgCKnAmuzTzMqrpQE#5731868923299809746 Blackbox] follow the steps :
+
+ * Click on the WUW01.sln file ( In the folder named "Code" )
+
+ * Right click the black box which is present in the extreme left.
+
+ * Click on the option send to back and it gets hidden.[https://picasaweb.google.com/107469250566140829278/WUWErrors?authkey=Gv1sRgCKnAmuzTzMqrpQE#5731868657532629986 Fig.1]
+
+ * You can also check this video : *
+
+     <wiki:video url="http://www.youtube.com/watch?v=xXIO6D_L0NM"/>
+
+( *Note* : Click on the Figs. to get the pictures.)
