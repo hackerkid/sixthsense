@@ -87,6 +87,8 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 
 (*Note*: Click on the Figs. to get the pictures.)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 = Configuring the code at Google (wuw_v0.1): =
 
@@ -102,18 +104,23 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 
      <wiki:video url="http://www.youtube.com/watch?v=5JNSILC6ie0"/>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-= How to remove the Black box =
+= How to remove the Black box ? =
 
+
+This is an error where some part of the screen is covered with a black box.
 
  * To remove the [https://picasaweb.google.com/107469250566140829278/WUWErrors?authkey=Gv1sRgCKnAmuzTzMqrpQE#5731868923299809746 Blackbox] follow the steps :
 
  * Click on the WUW01.sln file ( In the folder named "Code" )
 
+ * Click on WUW.cs ,highlighted area & do as written in the [https://picasaweb.google.com/107469250566140829278/WUWErrors?authkey=Gv1sRgCKnAmuzTzMqrpQE#5731868657532629986 Pic.1] like
+
  * Right click the black box which is present in the extreme left.
 
- * Click on the option send to back and it gets hidden.[https://picasaweb.google.com/107469250566140829278/WUWErrors?authkey=Gv1sRgCKnAmuzTzMqrpQE#5731868657532629986 Fig.1]
+ * Click on the option send to back and it gets hidden.
 
  * You can also check this video : *
 
