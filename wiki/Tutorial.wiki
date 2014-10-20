@@ -87,13 +87,13 @@ Please download the code at [https://github.com/sixthsense/sixthsense/downloads 
 
 (*Note*: Click on the Figs. to get the pictures.)
 
-=== For windows 64 bit users ===
+= For windows 64 bit users =
 
 
 You can watch this video to configure your code
 
 
-<wiki:video url="https://www.youtube.com/watch?v=ik9aUqN6W1g"/>
+     <wiki:video url="https://www.youtube.com/watch?v=ik9aUqN6W1g"/>
 
 
 
